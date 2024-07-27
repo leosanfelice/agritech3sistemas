@@ -95,3 +95,28 @@ header ul li a:hover{
   
     display: inline-block;
 }
+.center{
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+}
+.produtos .col.s3{
+    width: 22%;
+    margin: 1%;
+    display: inline-block;
+    background: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    float: left;
+}
+.produtos p{
+    text-align: justify;
+    padding: 0px 20px;
+    color: #19A762;
+}
+.produtos h3{
+    text-align: center;
+    padding: 5px 20px;
+    color: #19A762;
+}
